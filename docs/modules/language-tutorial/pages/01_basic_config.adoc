@@ -158,7 +158,7 @@ pigeonShelter {
 }
 
 birdCount {
-  [pigeonShelter] = 42 // <3>
+  ["pigeonShelter"] = 42 // <3>
 }
 ----
 <1> The difference with properties is the notation of the key: `[<expression>]`.
